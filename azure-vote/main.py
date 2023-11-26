@@ -203,4 +203,4 @@ if __name__ == "__main__":
     #app.run()  # local
     # uncomment the line below before deployment to VMSS
     #app.run(host="0.0.0.0", threaded=True, debug=True)  # remote
-    app.run(host='0.0.0.0', threaded=True, debug=True, port=5000) # remote
+    app.run(host='0.0.0.0', threaded=True, debug=True, port=50001) # remote
